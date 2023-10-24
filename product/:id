@@ -1,0 +1,120 @@
+    {
+      "id": 1,
+      "name": "Pitahaya Dragon",
+      "images": [
+        "../src/assets/images/product/product-1.jpg",
+        "../src/assets/images/product/product-2.jpg",
+        "../src/assets/images/product/product-3.jpg",
+        "../src/assets/images/product/product-4.jpg",
+        "../src/assets/images/product/product-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam ad reprehenderit fuga nam, non odit necessitatibus facilis beatae temporibus",
+      "original_price": 110,
+      "sale": 30,
+      "sale_type": "fixed",
+      "new_price": 80,
+      "state": "Sale",
+      "quantity": 12,
+      "labels": [
+        {
+          "id": 1,
+          "name": "label_1"
+        },
+        {
+          "id": 2,
+          "name": "label_2"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "name": "Fruit"
+        },
+        {
+          "id": 2,
+          "name": "Clinton Orr"
+        }
+      ],
+      "stars": 0,
+      "is_liked": true
+    },
+    {
+      "id": 2,
+      "name": "Corn",
+      "images": [
+        "../src/assets/images/product/product-4.jpg",
+        "../src/assets/images/product/product-5.jpg",
+        "../src/assets/images/product/product-6.jpg",
+        "../src/assets/images/product/product-7.jpg",
+        "../src/assets/images/product/product-8.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam ad reprehenderit fuga nam, non odit necessitatibus facilis beatae temporibus",
+      "original_price": 157,
+      "sale": null,
+      "sale_type": null,
+      "new_price": 157,
+      "state": "New",
+      "quantity": 8,
+      "labels": [
+        {
+          "id": 1,
+          "name": "label_1"
+        },
+        {
+          "id": 2,
+          "name": "label_2"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "name": "Fruit"
+        },
+        {
+          "id": 2,
+          "name": "Clinton Orr"
+        }
+      ],
+      "stars": 3,
+      "is_liked": true
+    },
+    {
+      "id": 3,
+      "name": "Cabbage",
+      "images": [
+        "../src/assets/images/product/product-7.jpg",
+        "../src/assets/images/product/product-8.jpg",
+        "../src/assets/images/product/product-9.jpg",
+        "../src/assets/images/product/product-1.jpg",
+        "../src/assets/images/product/product-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam ad reprehenderit fuga nam, non odit necessitatibus facilis beatae temporibus",
+      "original_price": 130,
+      "sale": 30,
+      "sale_type": "precentage",
+      "new_price": 91,
+      "state": "Sale",
+      "quantity": 0,
+      "labels": [
+        {
+          "id": 1,
+          "name": "label_1"
+        },
+        {
+          "id": 2,
+          "name": "label_2"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "name": "Fruit"
+        },
+        {
+          "id": 2,
+          "name": "Clinton Orr"
+        }
+      ],
+      "stars": 3.5,
+      "is_liked": false
+    }
