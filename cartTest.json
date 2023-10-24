@@ -1,0 +1,42 @@
+[
+  {
+    "value": true,
+    "data": {
+      "items": [
+        {
+          "id": 1,
+          "product_id": 1,
+          "name": "McKenzie Mays",
+          "quantity": 5,
+          "max_quantity": 17,
+          "image": "../src/assets/images/product/product-9.jpg",
+          "new_price": 20,
+          "total": 100
+        },
+        {
+          "id": 2,
+          "product_id": 2,
+          "name": "Avram Farrell",
+          "quantity": 3,
+          "max_quantity": 7,
+          "image": "../src/assets/images/product/product-9.jpg",
+          "new_price": 15,
+          "total": 45
+        }
+      ],
+      "paginate": {
+        "total": 1,
+        "count": 1,
+        "per_page": 15,
+        "next_page_url": "",
+        "prev_page_url": "",
+        "current_page": 1,
+        "total_pages": 6
+      }
+    },
+    "extra": {
+      "total_cost": 170.5
+    },
+    "code": 200
+  }
+]
