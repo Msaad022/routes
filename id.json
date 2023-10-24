@@ -1,4 +1,4 @@
-    {
+[    {
       "id": 1,
       "name": "Pitahaya Dragon",
       "images": [
@@ -118,3 +118,4 @@
       "stars": 3.5,
       "is_liked": false
     }
+]
