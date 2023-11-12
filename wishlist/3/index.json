@@ -1,0 +1,8 @@
+  {
+          "id": 3,
+          "product_id": 3,
+          "name": "Cabbage",
+          "in_stock": "In stock",
+          "image": "../src/assets/images/product/product-3.jpg",
+          "new_price": 7.7
+        }
