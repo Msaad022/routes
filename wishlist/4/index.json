@@ -1,0 +1,8 @@
+    {
+          "id": 4,
+          "product_id": 4,
+          "name": "Blackberries",
+          "in_stock": "Out of stock",
+          "image": "../src/assets/images/product/product-4.jpg",
+          "new_price": 10
+        }
