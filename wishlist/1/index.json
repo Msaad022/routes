@@ -1,41 +1,8 @@
-{
-    "value": true,
-    "data": {
-      "items": [
-        {
+  {
           "id": 1,
           "product_id": 1,
           "name": "Pitahaya Dragon",
           "in_stock": "In stock",
           "image": "../src/assets/images/product/product-1.jpg",
           "new_price": 8
-        },
-        {
-          "id": 2,
-          "product_id": 2,
-          "name": "Corn",
-          "in_stock": "Out of stock",
-          "image": "../src/assets/images/product/product-2.jpg",
-          "new_price": 6
-        },
-        {
-          "id": 3,
-          "product_id": 3,
-          "name": "Cabbage",
-          "in_stock": "In stock",
-          "image": "../src/assets/images/product/product-3.jpg",
-          "new_price": 7.7
         }
-      ],
-      "paginate": {
-        "total": 5,
-        "count": 3,
-        "per_page": 3,
-        "next_page_url": "",
-        "prev_page_url": "",
-        "current_page": 1,
-        "total_pages": 2
-      }
-    },
-    "code": 200
-  }
