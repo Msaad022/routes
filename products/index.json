@@ -6,11 +6,11 @@
           "id": 1,
           "name": "Pitahaya Dragon",
           "images": [
-            "src/assets/images/product/product-1.jpg",
-            "src/assets/images/product/product-2.jpg",
-            "src/assets/images/product/product-3.jpg",
-            "src/assets/images/product/product-4.jpg",
-            "src/assets/images/product/product-5.jpg"
+            "../src/assets/images/product/product-1.jpg",
+            "../src/assets/images/product/product-2.jpg",
+            "../src/assets/images/product/product-3.jpg",
+            "../src/assets/images/product/product-4.jpg",
+            "../src/assets/images/product/product-5.jpg"
           ],
           "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam ad reprehenderit fuga nam, non odit necessitatibus facilis beatae temporibus",
           "original_price": 110,
@@ -46,11 +46,11 @@
           "id": 2,
           "name": "Corn",
           "images": [
-            "srs/assets/images/product/product-2.jpg",
-            "src/assets/images/product/product-5.jpg",
-            "src/assets/images/product/product-6.jpg",
-            "src/assets/images/product/product-7.jpg",
-            "src/assets/images/product/product-8.jpg"
+            "./srs/assets/images/product/product-2.jpg",
+            "./src/assets/images/product/product-5.jpg",
+            "./src/assets/images/product/product-6.jpg",
+            "./src/assets/images/product/product-7.jpg",
+            "./src/assets/images/product/product-8.jpg"
           ],
           "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam ad reprehenderit fuga nam, non odit necessitatibus facilis beatae temporibus",
           "original_price": 6,
