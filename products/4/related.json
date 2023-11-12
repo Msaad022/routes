@@ -1,0 +1,46 @@
+   {
+      "value": true,
+      "data": [
+        {
+          "id": 1,
+          "name": "Pitahaya Dragon",
+          "images": [
+            "../src/assets/images/product/product-6.jpg",
+            "../src/assets/images/product/product-2.jpg",
+            "../src/assets/images/product/product-3.jpg",
+            "../src/assets/images/product/product-4.jpg",
+            "../src/assets/images/product/product-5.jpg"
+          ],
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam ad reprehenderit fuga nam, non odit necessitatibus facilis beatae temporibus",
+          "original_price": 110,
+          "sale": 30,
+          "sale_type": "fixed",
+          "new_price": 8,
+          "state": "Sale",
+          "quantity": 5,
+          "labels": [
+            {
+              "id": 1,
+              "name": "label_1"
+            },
+            {
+              "id": 2,
+              "name": "label_2"
+            }
+          ],
+          "categories": [
+            {
+              "id": 1,
+              "name": "Fruit"
+            },
+            {
+              "id": 2,
+              "name": "Clinton Orr"
+            }
+          ],
+          "stars": 1,
+          "is_liked": false
+        }
+      ],
+      "code": 200
+    }
