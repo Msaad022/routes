@@ -1,0 +1,86 @@
+related {
+      "value": true,
+      "data": [
+        {
+          "id": 4,
+          "name": "Blackberries",
+          "images": [
+            "../src/assets/images/product/product-4.jpg",
+            "../src/assets/images/product/product-5.jpg",
+            "../src/assets/images/product/product-6.jpg",
+            "../src/assets/images/product/product-7.jpg",
+            "../src/assets/images/product/product-8.jpg"
+          ],
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam ad reprehenderit fuga nam, non odit necessitatibus facilis beatae temporibus",
+          "original_price": 10,
+          "sale": null,
+          "sale_type": null,
+          "new_price": 10,
+          "state": "New",
+          "quantity": 0,
+          "labels": [
+            {
+              "id": 1,
+              "name": "label_1"
+            },
+            {
+              "id": 2,
+              "name": "label_2"
+            }
+          ],
+          "categories": [
+            {
+              "id": 1,
+              "name": "Fruit"
+            },
+            {
+              "id": 2,
+              "name": "Clinton Orr"
+            }
+          ],
+          "stars": 1.5,
+          "is_liked": false
+        },
+        {
+          "id": 5,
+          "name": "Raspberries",
+          "images": [
+            "../src/assets/images/product/product-7.jpg",
+            "../src/assets/images/product/product-8.jpg",
+            "../src/assets/images/product/product-9.jpg",
+            "../src/assets/images/product/product-1.jpg",
+            "../src/assets/images/product/product-2.jpg"
+          ],
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam ad reprehenderit fuga nam, non odit necessitatibus facilis beatae temporibus",
+          "original_price": 20,
+          "sale": 30,
+          "sale_type": "precentage",
+          "new_price": 14,
+          "state": "Sale",
+          "quantity": 15,
+          "labels": [
+            {
+              "id": 1,
+              "name": "label_1"
+            },
+            {
+              "id": 2,
+              "name": "label_2"
+            }
+          ],
+          "categories": [
+            {
+              "id": 1,
+              "name": "Fruit"
+            },
+            {
+              "id": 2,
+              "name": "Clinton Orr"
+            }
+          ],
+          "stars": 5,
+          "is_liked": false
+        }
+      ],
+      "code": 200
+    }
