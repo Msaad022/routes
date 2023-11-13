@@ -7,7 +7,7 @@
           "product_id": 4,
           "name": "Blackberries",
           "in_stock": "Out of stock",
-          "image": "../src/assets/images/product/product-4.jpg",
+          "image": "https://msaad022.github.io/routes/product/product-4.jpg",
           "new_price": 10
         },
         {
@@ -15,7 +15,7 @@
           "product_id": 5,
           "name": "Raspberries",
           "in_stock": "In stock",
-          "image": "../src/assets/images/product/product-5.jpg",
+          "image": "https://msaad022.github.io/routes/product/product-5.jpg",
           "new_price": 14
         }
       ],
