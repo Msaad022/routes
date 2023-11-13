@@ -8,7 +8,7 @@
           "name": "Blackberries",
           "quantity": 10,
           "max_quantity": 0,
-          "image": "../src/assets/images/product/product-4.jpg",
+          "image": "https://msaad022.github.io/routes/product/product-4.jpg",
           "new_price": 10,
           "total": 100
         },
@@ -18,7 +18,7 @@
           "name": "Raspberries",
           "quantity": 15,
           "max_quantity": 15,
-          "image": "../src/assets/images/product/product-5.jpg",
+          "image": "https://msaad022.github.io/routes/product/product-5.jpg",
           "new_price": 13,
           "total": 195
         }
