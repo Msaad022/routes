@@ -8,7 +8,7 @@
           "name": "Pitahaya Dragon",
           "quantity": 8,
           "max_quantity": 5,
-          "image": "../src/assets/images/product/product-1.jpg",
+          "image": "https://msaad022.github.io/routes/product/product-1.jpg",
           "new_price": 8,
           "total": 64
         },
@@ -18,7 +18,7 @@
           "name": "Corn",
           "quantity": 2,
           "max_quantity": 0,
-          "image": "../src/assets/images/product/product-2.jpg",
+          "image": "https://msaad022.github.io/routes/product/product-2.jpg",
           "new_price": 6,
           "total": 12
         },
@@ -28,7 +28,7 @@
           "name": "Cabbage",
           "quantity": 5,
           "max_quantity": 15,
-          "image": "../src/assets/images/product/product-3.jpg",
+          "image": "https://msaad022.github.io/routes/product/product-3.jpg",
           "new_price": 7.7,
           "total": 38.5
         }
