@@ -6,11 +6,11 @@
           "id": 1,
           "name": "Pitahaya Dragon",
           "images": [
-            "/assets/images/product/product-1.jpg",
-            "/assets/images/product/product-2.jpg",
-            "/assets/images/product/product-3.jpg",
-            "/assets/images/product/product-4.jpg",
-            "/assets/images/product/product-5.jpg"
+            "https://msaad022.github.io/routes/product/product-1.jpg",
+            "https://msaad022.github.io/routes/product/product-2.jpg",
+            "https://msaad022.github.io/routes/product/product-3.jpg",
+            "https://msaad022.github.io/routes/product/product-4.jpg",
+            "https://msaad022.github.io/routes/product/product-5.jpg"
           ],
           "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam ad reprehenderit fuga nam, non odit necessitatibus facilis beatae temporibus",
           "original_price": 110,
@@ -46,11 +46,11 @@
           "id": 2,
           "name": "Corn",
           "images": [
-            "./assets/images/product/product-2.jpg",
-            "./assets/images/product/product-5.jpg",
-            "./assets/images/product/product-6.jpg",
-            "./assets/images/product/product-7.jpg",
-            "./assets/images/product/product-8.jpg"
+            "https://msaad022.github.io/routes/product/product-2.jpg",
+            "https://msaad022.github.io/routes/product/product-5.jpg",
+            "https://msaad022.github.io/routes/product/product-6.jpg",
+            "https://msaad022.github.io/routes/product/product-7.jpg",
+            "https://msaad022.github.io/routes/product/product-8.jpg"
           ],
           "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam ad reprehenderit fuga nam, non odit necessitatibus facilis beatae temporibus",
           "original_price": 6,
@@ -86,11 +86,11 @@
           "id": 3,
           "name": "Cabbage",
           "images": [
-            "assets/images/product/product-3.jpg",
-            "assets/images/product/product-8.jpg",
-            "assets/images/product/product-9.jpg",
-            "assets/images/product/product-1.jpg",
-            "assets/images/product/product-2.jpg"
+            "https://msaad022.github.io/routes/product/product-3.jpg",
+            "https://msaad022.github.io/routes/product/product-8.jpg",
+            "https://msaad022.github.io/routes/product/product-9.jpg",
+            "https://msaad022.github.io/routes/product/product-1.jpg",
+            "https://msaad022.github.io/routes/product/product-2.jpg"
           ],
           "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam ad reprehenderit fuga nam, non odit necessitatibus facilis beatae temporibus",
           "original_price": 11,
