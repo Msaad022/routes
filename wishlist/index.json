@@ -7,7 +7,7 @@
           "product_id": 1,
           "name": "Pitahaya Dragon",
           "in_stock": "In stock",
-          "image": "../src/assets/images/product/product-1.jpg",
+          "image": "https://msaad022.github.io/routes/product/product-1.jpg",
           "new_price": 8
         },
         {
@@ -15,7 +15,7 @@
           "product_id": 2,
           "name": "Corn",
           "in_stock": "Out of stock",
-          "image": "../src/assets/images/product/product-2.jpg",
+          "image": "https://msaad022.github.io/routes/product/product-2.jpg",
           "new_price": 6
         },
         {
@@ -23,7 +23,7 @@
           "product_id": 3,
           "name": "Cabbage",
           "in_stock": "In stock",
-          "image": "../src/assets/images/product/product-3.jpg",
+          "image": "https://msaad022.github.io/routes/product/product-3.jpg",
           "new_price": 7.7
         }
       ],
