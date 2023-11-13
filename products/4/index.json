@@ -2,11 +2,11 @@
       "id": 4,
       "name": "Blackberries",
       "images": [
-        "../src/assets/images/product/product-4.jpg",
-        "../src/assets/images/product/product-5.jpg",
-        "../src/assets/images/product/product-6.jpg",
-        "../src/assets/images/product/product-7.jpg",
-        "../src/assets/images/product/product-8.jpg"
+        "https://msaad022.github.io/routes/product/product-4.jpg",
+        "https://msaad022.github.io/routes/product/product-5.jpg",
+        "https://msaad022.github.io/routes/product/product-6.jpg",
+        "https://msaad022.github.io/routes/product/product-7.jpg",
+        "https://msaad022.github.io/routes/product/product-8.jpg"
       ],
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At magnam ad reprehenderit fuga nam, non odit necessitatibus facilis beatae temporibus",
       "original_price": 10,
